@@ -1,0 +1,7 @@
+[project]
+name = "theiasoftclipprimers"
+version = "0.1.0"
+description = "theiaSoftClipPrimer: A genomic tool that processes BAM files to identify reads overlapping with primer regions, performs directional soft clipping, and generates comprehensive screening reports."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["pysam>=0.23.0"]
